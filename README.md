@@ -1,4 +1,4 @@
-[index.html](https://github.com/user-attachments/files/33920982/index.html)
+[index.html](https://github.com/user-attachments/files/33921013/index.html)
 <!DOCTYPE html>
 
 <html lang="ko"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><meta content="#090b0e" name="theme-color"/><meta content="밀양 솔루션 골프 스튜디오. KPGA 김태형 투어프로의 프리미엄 1:1 레슨, 트랙맨4 스윙 분석, 골프 입문 및 필드레슨. 100% 예약제. 전화 010-4733-0563" name="description"/><title>솔루션 골프 스튜디오 | 밀양 1:1 프리미엄 골프 레슨</title>
